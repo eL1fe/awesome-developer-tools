@@ -9,6 +9,7 @@
 - [Feedback & User Research](#feedback--user-research)
 - [Team & HR](#team--hr)
 - [Health & Productivity](#health--productivity)
+- [SEO & Social](#seo--social)
 - [API Development](#api-development)
 - [Deployment](#deployment)
 - [Monitoring](#monitoring)
@@ -77,6 +78,18 @@ Stay healthy and productive while coding.
 | [Toggl](https://toggl.com) | Simple time tracking | Freemium |
 | [f.lux](https://justgetflux.com) | Reduces blue light at night | Free |
 | [Stretchly](https://hovancik.net/stretchly/) | Break time reminder | Free |
+
+## SEO & Social
+
+Optimize your site for search engines and social sharing.
+
+| Tool | Description | Pricing |
+|------|-------------|---------|
+| **[OGShot](https://ogshot.cc)** | Generate Open Graph images via API. Edge-rendered in <100ms across 300+ nodes. No Puppeteer needed. | Freemium |
+| [Metatags.io](https://metatags.io) | Preview and generate meta tags | Free |
+| [OpenGraph.xyz](https://opengraph.xyz) | Preview how your site looks on social media | Free |
+| [Ahrefs](https://ahrefs.com) | SEO toolset and backlink analysis | Paid |
+| [Screaming Frog](https://screamingfrog.co.uk) | SEO spider and crawler | Freemium |
 
 ## API Development
 
