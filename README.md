@@ -90,6 +90,7 @@ Optimize your site for search engines and social sharing.
 | [OpenGraph.xyz](https://opengraph.xyz) | Preview how your site looks on social media | Free |
 | [Ahrefs](https://ahrefs.com) | SEO toolset and backlink analysis | Paid |
 | [Screaming Frog](https://screamingfrog.co.uk) | SEO spider and crawler | Freemium |
+| [TinyTools](https://tinytools-smoky.vercel.app/) | Free browser-based utilities: OG image generator, SEO meta tag generator, favicon generator, color palette generator, and more — no signup | Free |
 
 ## API Development
 
