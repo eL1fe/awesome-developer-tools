@@ -41,6 +41,7 @@ Make your git workflow smoother.
 | [Husky](https://typicode.github.io/husky/) | Git hooks made easy | Free |
 | [lint-staged](https://github.com/okonet/lint-staged) | Run linters on staged files | Free |
 | [GitKraken](https://gitkraken.com) | Visual Git client | Freemium |
+| [Glim](https://github.com/NeoPanic/Glim) | macOS GUI for local Git diff review, staging/unstaging and staged-only commits. | Free |
 
 ## Feedback & User Research
 
