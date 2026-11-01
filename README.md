@@ -102,6 +102,7 @@ Build and test APIs faster.
 | [Hoppscotch](https://hoppscotch.io) | Open-source API development ecosystem | Free |
 | [HTTPie](https://httpie.io) | Modern command-line HTTP client | Freemium |
 | [Bruno](https://usebruno.com) | Offline-first API client | Free |
+| [Kilobat CLI](https://github.com/seifip/kilobat-cli) | macOS CLI for diagnosing failed API connections across network, proxy, DNS and server layers | Free |
 
 ## Deployment
 
